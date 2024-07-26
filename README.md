@@ -38,10 +38,12 @@ This project is a Database Management System (DBMS) that allows users to post im
 - my sql installed in your system
 
 ### Installation
+<ol>
 1. Clone this repository to your local machine.
 2.install react js
 3.Install my sql as well
 4.clone this repository
+</ol>
 
 ## How to run
  ## for running the frontend 
