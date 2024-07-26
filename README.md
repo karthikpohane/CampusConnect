@@ -52,6 +52,3 @@ This project is a Database Management System (DBMS) that allows users to post im
  do:
  - cd api
  - node index.js
-
-```bash
-https://github.com/shiva0123m/Social-app.git
