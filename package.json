@@ -1,0 +1,20 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "This project is a Database Management System (DBMS) that allows users to post images, like images, follow and unfollow other users, check profiles, and delete posts. It's built using React.js, Node.js, Context API, and Bootstrap for the user interface.\r ![Screenshot 2023-10-19 123519](https://github.com/shiva0123m/Social-app/assets/117260868/ba206994-8ef5-44de-bb3d-b839f023c60f)\r ![Screenshot 2023-10-19 123230](https://github.com/shiva0123m/Social-app/assets/117260868/80dde0dd-b752-4a95-a2e0-350caa95fa45)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiva0123m/Social-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiva0123m/Social-app/issues"
+  },
+  "homepage": "https://github.com/shiva0123m/Social-app#readme"
+}
