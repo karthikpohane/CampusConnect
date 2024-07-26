@@ -1,5 +1,5 @@
 # CampusConnect
-- Your own social app.
+Your own social app.
 
 ## Project Overview
 This project is a Database Management System (DBMS) that allows users to post images, like images, follow and unfollow other users, check profiles, and delete posts. It's built using React.js, Node.js, Context API, and Bootstrap for the user interface.
