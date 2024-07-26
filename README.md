@@ -38,13 +38,11 @@ This project is a Database Management System (DBMS) that allows users to post im
 - my sql installed in your system
 
 ### Installation
-<ol>
 - Clone this repository to your local machine.
 - install node & react.
 - Install my SQL and create the schema and tables appropriately (as given in the social_app_tables folder).
 - Connect SQl with the code using the connect.js file.
 - Run the Backend and frontend separately.
-</ol>
 
 ## How to run
  ## for running the frontend 
